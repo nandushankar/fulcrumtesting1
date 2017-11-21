@@ -1,1 +1,1 @@
-testing from AWS labda
+testing from AWS lambda
